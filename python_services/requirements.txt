@@ -1,0 +1,7 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+python-multipart==0.0.5
+nltk==3.6.3
+beautifulsoup4==4.9.3
+PyPDF2==1.26.0
+ebooklib==0.17.1
